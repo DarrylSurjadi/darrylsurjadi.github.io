@@ -61,4 +61,13 @@
   .links {
     align-items: center;
   }
+
+  .link{
+    gap: 8px;
+  }
+
+  .link a {
+    font-size: 20px;
+    letter-spacing: normal;
+  }
 }
